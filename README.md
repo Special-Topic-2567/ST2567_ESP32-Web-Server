@@ -9,5 +9,5 @@
 ---
 ![image](https://github.com/user-attachments/assets/be3371eb-5927-40ec-9583-34cfa5525a04)
 
-
+### สรุป โปรเจคนี้เป็นการใช้งาน HTTP Server เพื่อทดสอบการทำงานของ GET และ POST ตามโค้ดที่เขียนบน esp32
 
